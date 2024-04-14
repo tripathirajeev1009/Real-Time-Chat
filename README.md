@@ -1,10 +1,3 @@
-## Horizontally scalable live chat application using Node.js, WebSockets, Nginx, Redis, and Kubernetes
-
-
-## System Diagram
-
-![System Diagram](https://user-images.githubusercontent.com/96862218/209307263-e739e9eb-5034-4c13-a5f5-8802824eeef5.svg)
-
 # Horizontally Scalable Live Chat Application
 
 This is a horizontally scalable live chat application built using Node.js, WebSockets, Nginx, Redis, and Kubernetes. This application allows for real-time communication between users in a scalable and reliable manner.
@@ -30,6 +23,11 @@ The architecture of the application consists of several components:
 4. **Redis**: Redis is used as a message broker and for storing chat messages. It ensures that messages are reliably delivered and persisted even if the backend server goes down. Redis pub/sub is used so that clients that are in the same chat room but connected to different servers can still send and receive each others' messages.
 
 5. **Kubernetes**: Kubernetes is used for container orchestration. It manages the deployment, scaling, and monitoring of the application.
+
+
+## System Diagram
+
+![System Diagram](https://user-images.githubusercontent.com/96862218/209307263-e739e9eb-5034-4c13-a5f5-8802824eeef5.svg)
 
 ## Setup Instructions
 
@@ -73,7 +71,7 @@ The architecture of the application consists of several components:
 
 ## Authors
 
-- [Your Name](https://github.com/tripathiraj9801)
+- [Rajeev Tripathi](https://github.com/tripathiraj9801)
 
 
 ## Try it out
