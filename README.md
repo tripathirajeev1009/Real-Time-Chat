@@ -71,10 +71,9 @@ The architecture of the application consists of several components:
 
 ## Authors
 
-- [Rajeev Tripathi]
+Rajeev Tripathi
 
 ## Try it out
 
-Sadly Live Link is no longer available because AWS EKS is too expensive for me to afford currently. I am working on a Youtube video for the same.:(
-# Real-Time-Chat
-# Real-Time-Chat
+Sadly Live Link is no longer available because AWS EKS is too expensive for me to afford currently. Here is link to the blog [Link][https://medium.com/@tripathirajeev9801/building-a-horizontally-scalable-chat-application-a-technical-deep-dive-a5526e8aeb67]I am working on a YouTube video for the same.:(
+
