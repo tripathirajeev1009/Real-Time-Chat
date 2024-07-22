@@ -75,5 +75,6 @@ Rajeev Tripathi
 
 ## Try it out
 
-Sadly Live Link is no longer available because AWS EKS is too expensive for me to afford currently. Here is link to the blog [Link](https://medium.com/@tripathirajeev9801/building-a-horizontally-scalable-chat-application-a-technical-deep-dive-a5526e8aeb67). I am working on a YouTube video for the same.:(
+Sadly Live Link is no longer available because AWS EKS is too expensive for me to afford currently. Here is link to the blog [Link](https://medium.com/@tripathirajeev9801/building-a-horizontally-scalable-chat-application-a-technical-deep-dive-a5526e8aeb67). 
+\\I am working on a YouTube video for the same.:(
 
