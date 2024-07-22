@@ -71,8 +71,7 @@ The architecture of the application consists of several components:
 
 ## Authors
 
-- [Rajeev Tripathi](https://github.com/tripathiraj9801)
-
+- [Rajeev Tripathi]
 
 ## Try it out
 
